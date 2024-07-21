@@ -1,0 +1,71 @@
+.formContainer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin-top: 15%;
+    height: 1rem;
+}
+
+.officeInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 30%;
+}
+
+.office {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.office h2 {
+    color: #ff007b;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 50%;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+}
+
+.formGroup label {
+    margin-bottom: 5px;
+}
+
+.formGroup input,
+.formGroup select,
+.formGroup textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.formGroup .error {
+    color: red;
+    font-size: 12px;
+}
+
+.submitButton {
+    padding: 10px 20px;
+    background-color: #ff007b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submitButton:hover {
+    background-color: #cc0069;
+}

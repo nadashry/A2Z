@@ -1,0 +1,48 @@
+/* src/ServicesGrid.css */
+.servicesGrid {
+    display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+.serviceCard {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    flex: 1 1 calc(33.333% - 20px); 
+    box-sizing: border-box;
+}
+
+.serviceCard:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.serviceTitle {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.serviceDescription {
+    font-size: 1em;
+    color: #555;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    position: relative;
+    bottom:-10rem;
+}
+.img{
+    width: 120%;
+}
+.heading{
+    font-style: 1.5em;
+    font-weight: 600;
+    color: rgb(220, 20, 160);
+    text-align: center;
+}

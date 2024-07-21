@@ -1,0 +1,16 @@
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+ .imag{
+    width: 30%;
+ }
+ .hone{
+    color: #ff0066;
+    font-weight: bold;
+    font-size: 70px;
+ }
+ .paragraph{
+    margin-top:40px ;
+ }

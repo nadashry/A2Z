@@ -1,0 +1,30 @@
+.img{
+    width: 80%;
+}
+.rightSide{
+    position: absolute;
+    left: 60%;
+    bottom:-250%;
+
+    
+}
+.heading{
+    text-align: center;
+    color: #ff0066;
+    font-size: 50px;
+}
+.img2{
+width: 10%;
+padding-left: 70px;
+}
+.marketing{
+    margin-left: 100px;
+}
+.description{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.link{
+    color: #ff0066;
+    margin-left:7% ;
+}

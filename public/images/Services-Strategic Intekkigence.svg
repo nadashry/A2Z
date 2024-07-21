@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_ëÎÓÈ_2" data-name="ëÎÓÈ 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed0b73;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="837.56" y="965.06" width="85.01" height="85.02"/>
+  <rect class="cls-2" x="710.04" y="965.06" width="85" height="85.02"/>
+  <rect class="cls-2" x="837.56" y="837.54" width="85.01" height="85.02"/>
+  <rect class="cls-2" x="710.04" y="837.54" width="85" height="85.02"/>
+  <rect class="cls-2" x="965.07" y="710.02" width="85.01" height="85.02"/>
+  <rect class="cls-2" x="965.07" y="837.54" width="85.01" height="212.54"/>
+  <rect class="cls-2" x="837.56" y="710.02" width="85.01" height="85.02"/>
+  <rect class="cls-2" x="710.04" y="710.02" width="85" height="85.02"/>
+  <rect class="cls-2" x="710.04" y="582.5" width="340.04" height="85.01"/>
+  <rect class="cls-1" x="199.95" y="412.48" width="85.01" height="127.53"/>
+  <rect class="cls-1" x="369.99" y="369.98" width="85.01" height="170.03"/>
+  <rect class="cls-1" x="540.01" y="454.98" width="85.02" height="85.02"/>
+  <rect class="cls-1" x="540.01" y="795.04" width="85.02" height="85.01"/>
+  <path class="cls-2" d="M497.52,114.94c0-46.96-38.08-85.02-85.03-85.02s-85,38.06-85,85.02H29.92v935.15h595.12v-85.02H114.95V199.94h85v85.01h425.08v-85.01h85.01v297.55h85V114.93h-297.53Z"/>
+  <path class="cls-1" d="M327.48,625.01c-70.44,0-127.53,57.13-127.53,127.52s57.09,127.52,127.53,127.52,127.52-57.13,127.52-127.52h-127.52v-127.52Z"/>
+</svg>

@@ -1,0 +1,53 @@
+.horizontalLine {
+    position: absolute;
+    bottom: -60%;
+    left: 0;
+    width: 10%;
+    height: 8px;
+    background-color: #e34e4e;
+    z-index: 1000;
+
+}
+.container{
+    height: 15rem;
+   
+}
+.image{
+    position: absolute;
+    bottom: -140%;
+    
+}
+
+.head {
+    position: absolute;
+    bottom: -64%;
+    left: 180px;
+}
+.mainflex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom:-98% ;
+    width: 68%;
+    left: 28%;
+    
+}
+.parttwo{
+    margin-left: 50px;
+    width: 50%;
+}
+.partone{
+    width: 50%;
+}
+.main{
+    position: relative;
+    top:300%;
+    display: flex;
+    justify-content: space-evenly;
+    height: 10rem;
+
+}
+.images{
+    padding: 10px;
+}

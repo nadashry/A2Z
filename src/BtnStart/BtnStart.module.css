@@ -1,0 +1,70 @@
+.rightSide{
+    width: 30%;
+    position: relative;
+    right: -70%;
+    padding: 50px;
+}
+.leftSide{
+    width: 60%;
+    position: relative;
+    top: 50%;
+}
+.heading{
+    color: #db2777;
+    font-weight: bold;
+    font-size: 50px;
+   position: relative;
+   top:150%;
+   right: 60%;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.smheading{
+    position: relative;
+    right: 62%;
+    padding: 20px;
+}
+.description{
+    position: relative;
+    right: 60%;
+}
+/* CustomCalendar.css */
+.calendarContainer {
+    display: flex;
+    position: relative;
+    top:150%;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.meetingInfo {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.timeButton {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #db2777;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.timeButton:hover {
+    background-color: #0056b3;
+}
+.allContainer{
+
+    height: 4rem;
+}
+.booking{
+    text-align: center;
+}

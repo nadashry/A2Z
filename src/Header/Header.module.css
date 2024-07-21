@@ -1,0 +1,84 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:5% 10%;
+    margin: 0;
+}
+.image{
+    width: 600px;
+}
+.head1{
+    font-size: 50px;
+}
+.head2{
+    font-size: 60px;
+    position: absolute;
+    bottom:10%;
+}
+.btrr{
+    border: 2px solid #ff0066;
+    color: #ff0066;
+    font-size: 80px;
+   
+    padding: 15px;
+}
+.square{
+    position: relative;
+    width: 8px;
+    height: 8px;
+    background-color: #ff0066;
+    top: 1.5rem;
+    left: 70%;
+}
+.square2{
+    position: relative;
+    width: 8px;
+    height: 8px;
+    background-color: #ff0066;
+    top:0.9rem;
+    left: 162%;
+}
+.square3{
+    position: relative;
+    width: 8px;
+    height: 8px;
+    background-color: #ff0066;
+    bottom:-9.4rem;
+    left: 162%;
+}
+.square4{
+    position: relative;
+    width: 8px;
+    height: 8px;
+    background-color: #ff0066;
+    bottom:-8.9rem;
+    left: 70%;
+}
+.part2{
+    position: absolute;
+    bottom: -4%;
+}
+.paragf{
+    font-size: 20px;
+}
+.part3 button {
+    background-color: #ff0066;
+    color: white;
+    border: none;
+    padding: 20px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    position: relative;
+    bottom: -20rem;
+left: -24rem;
+font-size:100%;
+
+}
+
+.part3 button:hover {
+    background-color: #420e24;
+    /* border: 2px solid #ff0066; */
+    color: #ff0066;
+}

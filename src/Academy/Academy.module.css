@@ -1,0 +1,66 @@
+.heading {
+    background: linear-gradient(to right, #e34e4e, #cb7141);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: aliceblue;
+}
+
+.horizontalLine {
+    position: absolute;
+    bottom: 80px;
+    left: 0;
+    width: 10%;
+    height: 8px;
+    background-color: #e34e4e;
+    z-index: 1000;
+
+}
+
+
+.head {
+    position: absolute;
+    bottom: 60px;
+    left: 180px;
+}
+
+.description {
+    position: absolute;
+    bottom: -20px;
+    left: 180px;
+}
+
+.btn {
+    background: linear-gradient(to right, #e34e4e, #cb7141);
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    position: absolute;
+    bottom: -70px;
+    left: 180px;
+    color: aliceblue;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    position: absolute;
+    bottom: -300px;
+    left: 180px;
+}
+
+.imgContainer img {
+    width: 30%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+

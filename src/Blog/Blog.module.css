@@ -1,0 +1,163 @@
+.image {
+    width: 150%;
+    margin-top: 50px;
+}
+
+.main {
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+.image {
+    width: 180%;
+}
+
+.head {
+    font-size: 60px;
+   margin-left: 50%;
+    font-weight: bold;
+    color: #ff0066;
+}
+
+.paragraph {
+    font-size: 30px;
+    margin-left: 50%;
+}
+
+.cardsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: space-between;
+    margin-top: 15%;
+}
+
+
+.cardLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 10px;
+    transition: transform 0.3s ease;
+    width: 400px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.cardImage {
+    width: 100%;
+    height: auto;
+}
+
+.cardContent {
+    padding: 15px;
+}
+
+.cardTitle {
+    font-size: 18px;
+    margin: 0 0 10px;
+    color: #333;
+}
+
+.description {
+    font-size: 14px;
+    color: #666;
+}
+
+.detailscontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 4%;
+}
+
+.detailsimg {
+    width: 70%;
+}
+
+.detailsheading {
+    color: #ff0066;
+    font-weight: bold;
+}
+
+.detailspart {
+    width: 50%;
+}
+
+.specialSection {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.specialSection h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cardsContainer {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.cards {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.cards:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.cards img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.cards h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.cards p {
+    font-size: 14px;
+    color: #666;
+}
+.threeimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}
+.descriptiondetails{
+    margin-left: 10%;
+    
+}

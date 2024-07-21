@@ -1,0 +1,11 @@
+.custom-footer {
+    position: relative;
+    top: 60rem;
+    width: 100%;
+    background-color: #f8f9fa;
+    /* z-index: 1000; */
+    overflow-y:hidden;
+}
+.custom-footer-bg{
+    background-color:  rgb(243, 170, 179);
+}

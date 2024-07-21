@@ -1,0 +1,46 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* .sliders {
+    padding: 20px;
+    background: #f9f9f9;
+}
+
+.logo img {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.labels{
+    text-align: center;
+} */
+/* 
+.text-center {
+    text-align: center;
+}
+
+.text-pink-600 {
+    color: #db2777;
+    
+} */
+.sliders {
+    overflow-x: hidden; 
+    padding: 0 15px; 
+    box-sizing: border-box;
+}
+
+.labels {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.logo img {
+    max-width: 100%; 
+    height: auto;
+}

@@ -1,0 +1,42 @@
+.image {
+    width: 30rem;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading {
+    color: #ff007b;
+}
+
+.rightSide {
+    position: relative;
+    left: 10%;
+}
+
+.para {
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: white;
+    outline: none;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    padding: 10px;
+    border-color: #ff007b;
+    width: 35%;
+}
+
+.btn:hover {
+    background-color: #ff007b;
+    border-color: black;
+}
